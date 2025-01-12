@@ -7,7 +7,7 @@ const WeatherNews = ({newsAPIkey}) => {
         // const data = await fetch('/WeatherNewsTest.json');
         const data = await fetch(`https://newsapi.org/v2/top-headlines?apiKey=${newsAPIkey}&q=weather`);
         let parsedData = await data.json();
-        if(parsedData.articles.length>0){
+        if(parsedData.articles && parsedData.articles.length>0){
         setNews(parsedData);
     }
     else{
