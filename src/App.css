@@ -1,0 +1,66 @@
+.label {
+    font-size: 18px;
+    font-weight: 400;
+    margin-right: 8px;
+}
+.value {
+    font-weight:600;
+    font-size: 18px;
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+.city-title{
+    opacity: 0.6;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 15px;
+}
+.time{
+    font-size: 15px;
+}
+.out{
+    border-bottom: 1px solid #a6a6a6;
+}
+
+.card-img-top{
+    width: 35% !important;
+}
+.temp{
+    font-size: 84px;
+    position: relative;
+}
+.after-temp {
+    font-size: 24px;
+    position: absolute;
+    bottom: 13px;
+    margin-left: -15px;
+    right: 0;
+    line-height: 1.28;
+    opacity: .4;
+}
+
+.temp-feel{
+    
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 16px;
+    margin-top: -12px;
+}
+p{font-size: 16px;}
+
+.newsbody{
+    padding: 11px;
+}
+.titlenews{font-size: 17px;
+    font-weight: bold;
+}
+.sizings{
+    width: 100% !important;
+    height: 100px;
+    aspect-ratio: 1;
+    object-fit: cover;
+}
+a {
+    text-decoration: none !important;
+}    

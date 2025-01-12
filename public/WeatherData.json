@@ -1,0 +1,53 @@
+{
+    "count": 1,
+    "data": [
+      {
+        "app_temp": 19,
+        "aqi": 37,
+        "city_name": "Saint-Marc",
+        "clouds": 0,
+        "country_code": "HT",
+        "datetime": "2024-12-29:11",
+        "dewpt": 16.8,
+        "dhi": 0,
+        "dni": 0,
+        "elev_angle": -5.32,
+        "ghi": 0,
+        "gust": 2.2,
+        "h_angle": -90,
+        "lat": 19.107,
+        "lon": -72.8826,
+        "ob_time": "2024-12-29 11:26",
+        "pod": "d",
+        "precip": 0,
+        "pres": 956,
+        "rh": 89,
+        "slp": 956,
+        "snow": 0,
+        "solar_rad": 0,
+        "sources": [
+          "analysis",
+          "radar",
+          "satellite"
+        ],
+        "state_code": "06",
+        "station": "E6202",
+        "sunrise": "11:17",
+        "sunset": "22:15",
+        "temp": 18.7,
+        "timezone": "America/Port-au-Prince",
+        "ts": 1735471580,
+        "uv": 0,
+        "vis": 16,
+        "weather": {
+          "description": "Clear sky",
+          "icon": "c01d",
+          "code": 800
+        },
+        "wind_cdir": "ENE",
+        "wind_cdir_full": "east-northeast",
+        "wind_dir": 72,
+        "wind_spd": 1.9
+      }
+    ]
+  }

@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Bad weather complicates holiday travel",
+      "description": "Friday was one of the busiest travel days of the holiday season, the Transportation Security Administration says. The agency is preparing for a busy Monday, but the weather is complicating the travel crush for millions of flyers.",
+      "url": "https://www.cbsnews.com/video/bad-weather-complicates-holiday-travel/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/12/28/d14bfcdd-7c0c-4e8e-88d2-423b7e8ab91c/thumbnail/1200x630/c8d7abf4e65e967601bfe668ac9c9f88/1228-satmo-holidaytravel-henry-3432034-640x360.jpg?v=fa9977353833f46f40b07abcd9d5240b",
+      "publishedAt": "2024-12-28T13:13:12+00:00",
+      "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Matthew Cappucci",
+      "title": "2024 had some wild weather. Here’s why.",
+      "description": "La Niña influenced the positions of key large-scale weather systems. That brought problems.",
+      "url": "https://www.washingtonpost.com/weather/2024/12/26/la-nina-hurricane-tornado-season/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J4SY5NHNMEZL3RGKIQWVCKVINM_size-normalized.JPG&w=1440",
+      "publishedAt": "2024-12-28T11:00:44Z",
+      "content": "If it feels like the weather was a bit much this year, youre not imagining things. The United States dealt with hyperactive hurricane and tornado seasons, and a burgeoning La Niña is in large part to… [+4255 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "NWS: 5 tornadoes touched down in Houston area on day after Christmas - KHOU.com",
+      "description": "NWS: 5 tornadoes touched down in Houston area on day after Christmas  KHOU.com.Tornadoes Spotted Across Southeast Texas  The Weather Channel. NWS confirms EF-1 tornado hit southwest Houston neighborhood where mail truck was knocked …",
+      "url": "https://admin.google.com/ServiceNotAllowed",
+      "urlToImage": null,
+      "publishedAt": "2024-12-28T04:33:31+00:00",
+      "content": "We are sorry, but you do not have access to Google News. Some reasons why you may not have access: \r\n\u003Cul\u003E\u003Cli\u003EYour account is managed by an organization that has this service turned off for its users.… [+340 chars]"
+    }
+  ]
+}
